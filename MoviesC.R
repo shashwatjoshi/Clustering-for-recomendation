@@ -2,7 +2,7 @@
 
 
 #load the data into R
-movies = read.table("movieC.txt", header=FALSE, sep="|",quote="\"")
+movies = read.table("MoviesC.txt", header=FALSE, sep="|",quote="\"")
 
 str(movies)
 
